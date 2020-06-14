@@ -9,7 +9,7 @@ Then, created a pivot table and analyze dates between 2019-01-01:2019-04-28. The
 In the summary DataFarme, urban cities showed higher fares than suburban and rural cities. Moreover, suburban fares are much greater than rural cities. See figure for visual line chart. 
 
 ## Table of Total Fare by City Type
-![Total Fare by City Type](Table1%20.png)
+![Total Fare by City Type](Table1.png)
 
 ## Line Chart of Total Fare by City Type
 ![Total Fare by City Type](Fig8%20.png)
