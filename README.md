@@ -12,7 +12,7 @@ In the summary DataFarme, urban cities showed higher fares than suburban and rur
 ![Total Fare by City Type](Table1.png)
 
 ## Line Chart of Total Fare by City Type
-![Total Fare by City Type](Fig8%20.png)
+![Total Fare by City Type](Fig8.png)
 
 # Overcoming Challenges
 The assignment was both exciting and challenging. The most challenging part is to use groupby functions for total_rides, total_drivers, total_fares, average_fare_per_ride, and average_fare_per_driver. The groupby function for total_drivers were showing errors and I found out that the data had to be pulled from the city_data_df rather than the pyber_data_df. This is because the original data is from city_data.csv.
