@@ -12,7 +12,7 @@ In the summary DataFarme, urban cities showed higher fares than suburban and rur
 ![Total Fare by City Type](Table1.png)
 
 ## Line Chart of Total Fare by City Type
-![Total Fare by City Type](Fig8.png)
+![Total Fare by City Type](%20Fig8.png)
 
 # Overcoming Challenges
 The assignment was both exciting and challenging. The most challenging part is to use groupby functions for total_rides, total_drivers, total_fares, average_fare_per_ride, and average_fare_per_driver. The groupby function for total_drivers were showing errors and I found out that the data had to be pulled from the city_data_df rather than the pyber_data_df. This is because the original data is from city_data.csv.
@@ -24,6 +24,9 @@ Link after searching Google for resample function: https://towardsdatascience.co
 
 Image of the function:
 ![Google Search](Google%20.png)
+
+Image of Slack information:
+![Google Search](Slack%20.png)
 
 # Data Analysis Conclusion
 Based on the data, urban cities showed higher fares than rural cities and suburban cities. In order to increase the amount of fares in rural cities and suburban cities, we have to check the amount of drivers available, the number of riders, and the cost of fares per city (the cost of fares could be different each city).
