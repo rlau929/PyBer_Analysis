@@ -26,7 +26,7 @@ Image of the function:
 ![Google Search](Google%20.png)
 
 Image of Slack information:
-![Google Search](Slack%20.png)
+![Slack Information](Slack%20.png)
 
 # Data Analysis Conclusion
 Based on the data, urban cities showed higher fares than rural cities and suburban cities. In order to increase the amount of fares in rural cities and suburban cities, we have to check the amount of drivers available, the number of riders, and the cost of fares per city (the cost of fares could be different each city).
