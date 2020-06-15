@@ -20,7 +20,8 @@ The assignment was both exciting and challenging. The most challenging part is t
 Another challenging part is to use the resample function to analyze data in weekly bins using a date range. "Subheading Curiosity" I was also curious if the ranges can be reformatted to different dates such as mm/dd/yy or mm/dd/yyyy format.
 In order to overcome these challenges, I mainly used Google to find the information I needed. In addition, I used Slack to ask questions or find other classmates with similar questions I had.
 
-## Link after searching Google for resample function: https://towardsdatascience.com/using-the-pandas-resample-function-a231144194c4
+## Link after searching Google for resample function:
+https://towardsdatascience.com/using-the-pandas-resample-function-a231144194c4
 
 ## Image of the Google search:
 ![Google Search](Google.png)
