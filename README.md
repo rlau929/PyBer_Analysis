@@ -9,10 +9,10 @@ Then, created a pivot table and analyze dates between 2019-01-01:2019-04-28. The
 In the summary DataFarme, urban cities showed higher fares than suburban and rural cities. Moreover, suburban fares are much greater than rural cities. See figure for visual line chart. 
 
 ## Table of Total Fare by City Type
-![Total Fare by City Type](Table1.png)
+![Total Fare by City Type](Table1%20.png)
 
 ## Line Chart of Total Fare by City Type
-![Total Fare by City Type](%20Fig8.png)
+![Total Fare by City Type](Fig8%20.png)
 
 # Overcoming Challenges
 The assignment was both exciting and challenging. The most challenging part is to use groupby functions for total_rides, total_drivers, total_fares, average_fare_per_ride, and average_fare_per_driver. The groupby function for total_drivers were showing errors and I found out that the data had to be pulled from the city_data_df rather than the pyber_data_df. This is because the original data is from city_data.csv.
