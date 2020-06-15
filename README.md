@@ -22,10 +22,10 @@ In order to overcome these challenges, I mainly used Google to find the informat
 
 Link after searching Google for resample function: https://towardsdatascience.com/using-the-pandas-resample-function-a231144194c4
 
-Image of the function:
+## Image of the Google search:
 ![Google Search](Google.png)
 
-Image of Slack information:
+## Image of Slack information:
 ![Slack Information](Slack.png)
 
 # Data Analysis Conclusion
